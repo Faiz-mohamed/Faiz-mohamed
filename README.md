@@ -8,13 +8,19 @@ I am a **Full Stack Developer** specializing in **Angular** and **.NET**. I focu
 
 ### 🛠️ Tools I Use
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Razorpay-0E2F56?style=for-the-badge&logo=razorpay&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
+  <img src="assets/c-sharp.png" height="28"/>
+
+  <img src="assets/dotNet.png" height="28"/>
+
+  <img src="assets/Angular.png" height="28"/>
+
+  <img src="assets/SqlServer.png" height="28"/>
+
+  <img src="assets/razorpay.png" height="28"/>
+
+  <img src="assets/jwt.png" height="29"/>
 </p>
+
 
 ### 📫 How to reach me
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiz-mohamed556/)
