@@ -18,7 +18,7 @@ I am a **Full Stack Developer** specializing in **Angular** and **.NET**. I focu
 
   <img src="assets/razorpay.png" height="28"/>
 
-  <img src="assets/jwt.png" height="29"/>
+  <img src="assets/jwt.png" height="28"/>
 </p>
 
 
