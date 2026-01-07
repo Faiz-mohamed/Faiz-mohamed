@@ -4,7 +4,7 @@
 I am a **Full Stack Developer** specializing in **Angular** and **.NET**. I focus on building clean, production-grade architectures and modern, responsive front-end designs.
 
 ### <img src="assets/typingcat.gif" width="30"/> Currently working on
-* **Shoe E-commerce API:** A production-ready REST API built with .NET, Clean Architecture, and Razorpay integration.
+* **[Shoe E-commerce API](https://github.com/Faiz-mohamed/ShoeEcommerce-CleanArchitecture-API):** A production-ready REST API built with .NET, Clean Architecture, and Razorpay integration.
 
 ### 🛠️ Tools I Use
 <p align="left">
