@@ -5,7 +5,7 @@ I am a **Full Stack Developer** specializing in **Angular** and **.NET**. I focu
 
 ### <img src="assets/typingcat.gif" width="30"/> Currently working on
 * **[Shoe E-commerce API](https://github.com/Faiz-mohamed/ShoeEcommerce-CleanArchitecture-API):** A production-ready REST API built with .NET, Clean Architecture, and Razorpay integration.
-
+---
 ### 🛠️ Tools I Use
 <p align="left">
   <img src="assets/c-sharp.png" height="28"/>
@@ -21,7 +21,12 @@ I am a **Full Stack Developer** specializing in **Angular** and **.NET**. I focu
   <img src="assets/jwt.png" height="28"/>
 </p>
 
-
+---
 ### 📫 How to reach me
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiz-mohamed556/)
-* [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/faiz_mohamed_k_n/)
+<a href="https://www.linkedin.com/in/faiz-mohamed556/" target="_blank">
+  <img src="assets/linkedin.png" height="28" />
+</a>
+
+<a href="https://www.instagram.com/faiz_mohamed_k_n/" target="_blank">
+  <img src="assets/instagram.png" height="28" />
+</a>
